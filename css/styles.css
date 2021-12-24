@@ -1,0 +1,80 @@
+#title{
+    background-color: #ff4c68;
+}
+.body{
+    font-family: "montserrat";
+}
+h1{
+    font-family:"Nosifer";
+    font-size: 2rem;
+    line-height: 1.5;
+
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+ 
+.navbar {
+    padding:0 0 4rem;
+}
+
+.nav-item {
+    padding: 0 15px;
+
+}
+/* navigation tindog */
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+   
+}
+/* navigation tindog */
+.navbar-brand:hover {
+
+color: black;
+  
+}
+
+/* download-botton */
+.download-botton{
+    margin: 5% 3% 5% 0%;
+}
+
+/* image  */
+.title-image {
+    width: 60%;
+   transform: rotate(25deg)
+}
+.title-image:hover {
+   
+   transform: rotate(0deg)
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    
+}
+p.text1{
+    padding: 5% 10%;
+     color: gray;
+}
+p.text1:hover{
+    color: black;
+}
+h3{
+    font-family:"Montserrat";
+    font-weight: bold ;
+}
+h3:hover{
+    color: red;
+}
+.icon{
+    margin-bottom: 2rem;
+    color:rgb(236, 130, 130);
+}
+.icon:hover{
+    color: red;
+}
